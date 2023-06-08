@@ -1,3 +1,3 @@
 # Test
 
-Visit Dir [Directory](./Directory)
+Visit [Directory](./Directory)
